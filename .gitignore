@@ -1,0 +1,22 @@
+# virtual envoirment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm
+.idea/
+
+# Archivos de datos pesados
+*.csv
+*.log
+*.db
+*.sqlite
+
+# Variables de entorno
+.env
+*.json
+week-01-python-sqlday01/
